@@ -12,8 +12,8 @@ Whatever I do, I try to give my best. I'm still a beginner in the Dev universe, 
 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
-    ![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)  
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)    
+    ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white) 
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white)    
     
 - Frontend : <br />
     ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white)    
