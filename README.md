@@ -18,8 +18,8 @@ Technologies I've been learning and using so far :
     ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=F7DF1E&style=social)    
     
 - Frontend : <br />
-    ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=E34F26&style=social)<br>    
-    ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=1572B6&style=social)<br>
+    ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=E34F26&style=social)   
+    ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=1572B6&style=social)
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=7952B3&style=social)
 
 - OS & IDE & Tools : <br />
