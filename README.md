@@ -13,12 +13,12 @@ Technologies I've been learning and using so far :
 
 - Programming languages : <br />
     ![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)  
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)
-    ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)    
     
 - Frontend : <br />
-    ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)
-    ![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)
+    ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)    
+    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap)
+    ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3)
 
 - OS & IDE & Tools : <br />
     ![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
