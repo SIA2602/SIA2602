@@ -1,4 +1,5 @@
-<body style="background-color:blue">
+![header](https://capsule-render.vercel.app/api?type=slice)
+
 <p align="center">
 <img src="https://ezgif.com/images/loadcat.gif"/>
 Hi, I'm Danilo Silva... 
@@ -38,4 +39,3 @@ Technologies I've been learning and using so far :
   <a href="https://www.hollox.com.br/">Page Startup Hollox</a> 
   
 ![Danilo Silva](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
-</body>
