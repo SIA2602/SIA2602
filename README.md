@@ -20,6 +20,9 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 
 <br>
 <br>
+
+Technologies I've been learning and using so far :
+
 - Programming languages : <br />
     [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)](https://dinhanhthi.com/#python)
     [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)](https://dinhanhthi.com/#web_development)
