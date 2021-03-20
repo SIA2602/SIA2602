@@ -29,6 +29,6 @@ Technologies I've been learning and using so far :
  <i>Take a look at my repositories and let's get in touch!</i>
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sia2602"/>
-<a href="https://www.linkedin.com/in/danilo-silva-628671b3/"><img src="https://img.shields.io/badge/-Danilo%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/danilo-silva-628671b3/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
-<a/github/followers/:sia2602?label=Follow  
+<a href="https://www.linkedin.com/in/danilo-silva-628671b3/"><img src="https://img.shields.io/badge/-Danilo%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/danilo-silva-628671b3/" /></a>&nbsp;&nbsp;&nbsp;&nbsp  
+<a/github/followers/:sia2602?label=Follow</a>  
 </p> 
