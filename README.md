@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 <p align="center">
 <img src="https://ezgif.com/images/loadcat.gif"/>
