@@ -26,9 +26,9 @@ Technologies I've been learning and using so far :
     [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)](https://dinhanhthi.com/git)
     
 <p align="center">
- <i>Take a look at my repositories and let's get in touch!</i>
+ <i>Take a look at my repositories!</i>
 <p  align="center">
+<a href="https://www.linkedin.com/in/danilo-silva-628671b3/"><img src="https://img.shields.io/badge/-Danilo%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/danilo-silva-628671b3/" /></a>  
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sia2602"/>
-<a href="https://www.linkedin.com/in/danilo-silva-628671b3/"><img src="https://img.shields.io/badge/-Danilo%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/danilo-silva-628671b3/" /></a>
 <img src="https://img.shields.io/github/followers/sia2602?style=social"/>  
 </p> 
