@@ -16,7 +16,7 @@ Technologies I've been learning and using so far :
     ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)    
     
 - Frontend : <br />
-    ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)    
+    ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white)    
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white)
     ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white)
 
