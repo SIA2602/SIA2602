@@ -19,7 +19,7 @@ Technologies I've been learning and using so far :
     
 - Frontend : <br />
     ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=E34F26&style=social)<br>    
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=7952B3&style=social)<br>
+    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=7952B3&style=social)
     ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=1572B6&style=social)
 
 - OS & IDE & Tools : <br />
