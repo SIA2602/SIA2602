@@ -13,6 +13,7 @@ Technologies I've been learning and using so far :
 
 - Programming languages : <br />
     ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white) 
+    ![C++](https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white) 
     ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)    
     
 - Frontend : <br />
