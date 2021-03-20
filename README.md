@@ -29,7 +29,7 @@ Technologies I've been learning and using so far :
     ![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)
     
 - My Jobs : <br />
-  <a href="https://www.hollox.com.br/">Site Hollox</a> 
+  <a href="https://www.hollox.com.br/">Page Startup Hollox</a> 
   
 <p align="center">
  <i>Take a look at my repositories!</i>
