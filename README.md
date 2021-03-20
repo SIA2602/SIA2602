@@ -8,15 +8,7 @@
 Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
 </p>  
   
-<br><br>
-
- <p align="center">
- <a href="https://twitter.com/imtrilokia"><img src="https://img.shields.io/twitter/follow/imtrilokia?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/abhinandantrilokia/"><img src="https://img.shields.io/badge/-Abhinandan%20Trilokia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/abhinandantrilokia/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
-   <a href="https://www.reddit.com/user/Trilokia"><img src="https://img.shields.io/reddit/user-karma/combined/trilokia?style=style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<br>
-<br>
+<br><br> 
 
 Technologies I've been learning and using so far :
 
@@ -40,8 +32,12 @@ Technologies I've been learning and using so far :
 <img src="https://visitor-badge.laobi.icu/badge?page_id=trilokia"/>       
 </p>
 
-</p>
+<p align="center">
+ <a href="https://twitter.com/imtrilokia"><img src="https://img.shields.io/twitter/follow/imtrilokia?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/abhinandantrilokia/"><img src="https://img.shields.io/badge/-Abhinandan%20Trilokia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/abhinandantrilokia/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
+   <a href="https://www.reddit.com/user/Trilokia"><img src="https://img.shields.io/reddit/user-karma/combined/trilokia?style=style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-![Danilo Silva](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 <br>
-</p>
+<br>
+
+
