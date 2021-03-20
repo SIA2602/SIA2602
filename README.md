@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=sia2602"/>
+<img src="https://ezgif.com/images/loadcat.gif"/>
 Hi, I'm Danilo Silva...  
 </p>  
 
