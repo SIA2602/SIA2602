@@ -1,10 +1,6 @@
 ### Hi, I'm Danilo Silva ![Danilo Silva](https://ezgif.com/images/loadcat.gif)
 
 <p align="center">
-  <img src="https://ezgif.com/images/loadcat.gif"/> 
-</p>
-
-<p align="center">
 Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
 </p>  
   
@@ -29,7 +25,7 @@ Technologies I've been learning and using so far :
 <p align="center">
  <i>Take a look at my repositories and let's get in touch!</i>
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=trilokia"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sia2602"/>       
 </p>
 
 <p align="center">
