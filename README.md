@@ -1,5 +1,6 @@
 <p align="center">
-Hi, I'm Danilo Silva ![Danilo Silva](https://ezgif.com/images/loadcat.gif)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sia2602"/>
+Hi, I'm Danilo Silva...  
 </p>  
 
 <p align="center">
