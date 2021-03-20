@@ -1,4 +1,5 @@
-### Hi, I'm Danilo Silva ("https://ezgif.com/images/loadcat.gif")
+### Hi, I'm Danilo Silva 
+![Danilo Silva](https://ezgif.com/images/loadcat.gif)
 
 <p align="center">
   <img src="https://ezgif.com/images/loadcat.gif"/> 
