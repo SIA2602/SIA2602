@@ -4,7 +4,7 @@ Hi, I'm Danilo Silva...
 </p>  
 
 <p align="center">
-Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
+Whatever I do, I try to give my best. I'm still a beginner in the Dev universe, but I'm always wanting to learn.
 </p>  
   
 <br><br> 
@@ -30,4 +30,5 @@ Technologies I've been learning and using so far :
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sia2602"/>
 <a href="https://www.linkedin.com/in/danilo-silva-628671b3/"><img src="https://img.shields.io/badge/-Danilo%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/danilo-silva-628671b3/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
+<a/github/followers/:sia2602?label=Follow  
 </p> 
