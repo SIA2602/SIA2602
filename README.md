@@ -12,7 +12,7 @@ Whatever I do, I try to give my best. I'm still a beginner in the Dev universe, 
 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
-    ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white) 
+    ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=3776AB&style=social) 
     ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B) 
     ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&style=social) 
     ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)    
