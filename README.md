@@ -38,3 +38,5 @@ Technologies I've been learning and using so far :
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sia2602"/>
 <img src="https://img.shields.io/github/followers/sia2602?style=social"/>  
 </p> 
+
+![Danilo Silva](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
