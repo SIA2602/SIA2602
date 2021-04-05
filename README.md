@@ -37,5 +37,5 @@ Technologies I've been learning and using so far :
   <a href="https://www.hollox.com.br/">Page Startup Hollox</a> 
   
 <div>
-  <iframe style=" width: 500px; height: 800px; -webkit-transform: scale(0.7);" src="http://hollox.com.br/gafisa"></iframe>
+  <iframe src="http://hollox.com.br/gafisa"></iframe>
 </div>
