@@ -36,6 +36,13 @@ Technologies I've been learning and using so far :
 - My Jobs : <br />
   <a href="https://www.hollox.com.br/">Page Startup Hollox</a> 
   
-<div>
-  <iframe src="http://hollox.com.br/gafisa"></iframe>
-</div>
+<iframe id="github-iframe" src=""></iframe>
+<script>
+    fetch('https://api.github.com/repos/ileathan/hubot-mubot/contents/src/mubot.coffee')
+        .then(function(response) {
+            return response.json();
+        }).then(function(data) {
+            var iframe = document.getElementById('github-iframe');
+            iframe.src = 'data:text/html;base64,' + encodeURIComponent(data['content']);
+        });
+</script>
