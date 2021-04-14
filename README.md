@@ -12,6 +12,8 @@ Hi, I'm Danilo Silva...
 <p align="center">
 Whatever I do, I try to give my best. I'm still a beginner in the Dev universe, but I'm always wanting to learn.
 </p>  
+
+![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=SIA2602&show_icons=true)
   
 <br> 
 
