@@ -17,7 +17,7 @@ Whatever I do, I try to give my best. I'm still a beginner in the Dev universe, 
 
 Technologies I've been learning and using so far :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIA2602&layout=compact)](https://github.com/SIA2602)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIA2602&layout=compact&langs_count=8)](https://github.com/SIA2602)
     
 - My Jobs : <br />
   <a href="https://www.hollox.com.br/">Page Startup Hollox</a> 
