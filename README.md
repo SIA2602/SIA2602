@@ -17,6 +17,8 @@ Whatever I do, I try to give my best. I'm still a beginner in the Dev universe, 
 
 Technologies I've been learning and using so far :
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIA2602&layout=compact)](https://github.com/SIA2602/github-readme-stats)
+
 - Programming languages : <br />
     ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=3776AB&style=social)
     ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=social)
