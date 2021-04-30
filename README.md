@@ -10,7 +10,7 @@ Hi, I'm Danilo Silva...
 </p>  
 
 <p align="center">
-Whatever I do, I try to give my best. I'm still a beginner in the Dev universe, but I'm always wanting to learn.
+I'm still a beginner in the Dev universe, but I'm always wanting to learn.
 </p>  
  
 <br> 
