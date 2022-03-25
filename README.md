@@ -7,14 +7,4 @@ Hi, I'm Danilo Silva...
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sia2602"/>
 <img src="https://img.shields.io/github/followers/sia2602?style=social"/>  
 </p>   
-</p>  
-
-<p align="center">
-I'm still a beginner in the Dev universe, but I'm always wanting to learn.
-</p>  
- 
-<br> 
-
-- My Jobs: <br />
-  <a href="https://www.hollox.com.br/">Page for Startup Hollox</a> <br>
-  <a href="https://www.hollox.com.br/gafisa">Page for Client Hollox</a> 
+</p>
